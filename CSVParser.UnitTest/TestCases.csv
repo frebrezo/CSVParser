@@ -1,0 +1,16 @@
+"field1","field2","field3"
+" field1  ","  field2  ","field3   "
+field1,field2,field3
+ field1 , field2 , field3   
+"field1 with ""doublequote""","field2","field3"
+"field1 with ""doublequote""","field2.1,field2.2","field3"
+"field1","field2","field3"
+"field1",field2","field3"
+"field1",field2"","field3"
+"","field1","field2","field3"
+,field1,field2,field3
+field1,"field2",field3 "random doublequote", field4 with space
+"field1","field2 "","field3"
+"field1","field2 "","field3",field 4
+"field1","field2 "","field3",field """4
+""field1","field2 "","field3",field """4
